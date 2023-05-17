@@ -5,3 +5,4 @@
 ### Salvando alterações no Git
 
 * Comando git push
+* Comandi git pull
